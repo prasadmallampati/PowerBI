@@ -1,0 +1,29 @@
+                                                        Date and Time Functions
+
+TODAY
+Syntax: TODAY()
+Description: Returns the current date.
+Example   currentDate = Today()
+
+NOW
+Syntax: NOW()
+Description: Returns the current date and time.
+Example : CurrentDateTime = NOW()
+
+
+YEAR
+Syntax: YEAR(date)
+Description: Returns the year of a date.
+Example : year_of_date = YEAR(7/31/2024)
+
+
+MONTH
+Syntax: MONTH(date)
+Description: Returns the month of a date as a number (1-12).
+Example :  MonthOfDate = MONTH('datetime_functions'[currentDate])
+
+
+DAY
+Syntax: DAY(date)
+Description: Returns the day of the month of a date.
+Example : dayofdate = DATE(2024,7,31)
