@@ -1,0 +1,38 @@
+Aggregation Functions
+
+
+SUM
+Syntax: SUM(column)
+Description: Adds all the numbers in a column.
+Example : Total Sales = SUM(Orders[Sales])
+
+
+AVERAGE
+Syntax: AVERAGE(column)
+Description: Returns the average (arithmetic mean) of all the numbers in a column.
+Example : AVG profit = AVERAGE(Orders[Profit])
+
+
+MIN
+Syntax: MIN(column)
+Description: Returns the smallest number in a column.
+Example :- min_sales = MIN(Orders[Sales])
+
+
+MAX
+Syntax: MAX(column)
+Description: Returns the largest number in a column.
+Example : max_sales = MAX(Orders[Sales])
+
+
+COUNT
+Syntax: COUNT(column)
+Description: Counts the number of values in a column.
+Example : tranasction_count = COUNT(Orders[Sales])
+
+
+COUNTROWS
+Syntax: COUNTROWS(table)
+Description: Counts the number of rows in a table.
+Example : count_rows = COUNTROWS(Orders)
+
