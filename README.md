@@ -35,7 +35,11 @@ Power BI Mobile apps for Windows, iOS, and Android devices.
 
 
 Install software resource urls : 
-Microsoft Power BI Desktop
-https://app.powerbi.com/
+
+Microsoft Power BI Desktop      desktop
+
+https://app.powerbi.com/        service 
+
 Microsoft Power BI - Apps on Google Play                    for android 
+
 Microsoft Power BI on the App Store (apple.com)         for ios
