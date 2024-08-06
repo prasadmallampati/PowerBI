@@ -1,7 +1,7 @@
 # PowerBI
 
 
-	                POWER BI
+	                				POWER BI
 
 
 **Definition :**  Power BI  is a Data Visualization and Business Intelligence tool that converts data from sources to interactive dashboards and BI reports
